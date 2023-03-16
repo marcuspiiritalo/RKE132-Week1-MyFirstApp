@@ -9,4 +9,5 @@ string userName = Console.ReadLine(); //Input
 
 Console.WriteLine("Hello" + ", " + userName + "!"); //Output
 //string interpolation
-Console.WriteLine($"Hello, {userName}!"); // Output 
+
+Console.WriteLine($"Hello, {userName}!"); // Output
